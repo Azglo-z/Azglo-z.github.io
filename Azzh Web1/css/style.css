@@ -141,8 +141,6 @@ html, body{
  */
 .zylContainer_2{
 	padding-bottom: 5%;
-	background-image: url(/img/佐鸣.jpg);
-	background-size: cover;
 }
 .zylCard{
 	margin-top: 7%;
@@ -180,15 +178,13 @@ html {
 }
 .zuozhu{
 	height: 580px;
-	background-image: url(/img/zz4.jpg);
-	background-size: cover;
 }
 .zz1{
 	margin-top: 50px;
 }
 .mr{
 	height: 580px;
-	background-image: url(/img/鸣人3.jpg);
+	background-image: url(https://up.enterdesk.com/edpic_source/31/3a/0d/313a0dcf2f3e65564f043797e6d085b3.jpg);
 	background-size: cover;
 }
 .button{
